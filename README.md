@@ -27,7 +27,7 @@ for org-mode
 "upstream" remote is [nmartin84/.doom.d](https://github.com/nmartin84/.doom.d).
 
 ## Shell
-- tmux  
+- [tmux](https://gist.github.com/i0z0m/a4087b3787aeb0ffcdb1be7489e635db)  
 - zsh
 
 ## Desktop
