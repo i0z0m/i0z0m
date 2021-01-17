@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 # Environment
 
 ## Editor
-- [(Neo) Vim](https://gist.github.com/i0z0m/75286efe56181d98980e8f629d1bd381)
+- [(Neo) Vim](https://gist.github.com/i0z0m/75286efe56181d98980e8f629d1bd381)  
 for programming
 
-- (Doom) Emacs  
+- Doom Emacs  
 for org-mode
 
 ## Shell
