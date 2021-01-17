@@ -28,7 +28,7 @@ for org-mode
 
 ## Shell
 - [tmux](https://gist.github.com/i0z0m/a4087b3787aeb0ffcdb1be7489e635db)  
-- zsh
+- [zsh](https://gist.github.com/i0z0m/863ae516613cc3c28d2a91abca20fe06)
 
 ## Desktop
 - i3 WM  
