@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 for programming
 
 - Doom Emacs  
-for org-mode
+for org-mode  
+"upstream" remote is [nmartin84/.doom.d](https://github.com/nmartin84/.doom.d).
 
 ## Shell
 - tmux  
