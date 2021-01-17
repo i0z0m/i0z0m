@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **i0z0m/i0z0m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+# Environment
+
+## Editor
+- (Neo) Vim  
+for programming
+
+- (Doom) Emacs  
+for org-mode
+
+## Shell
+- tmux  
+- zsh
+
+## Desktop
+- i3 WM  
+- alacritty
+
+## OS
+- Arch Linux  
+- Ubuntu on WSL of Windows10
+
+# Languages
+- C  
+- C++  
+- Rust  
+- Python
