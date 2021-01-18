@@ -36,7 +36,7 @@ for org-mode
 
 ## OS
 - Arch Linux  
-- Ubuntu on WSL of Windows10
+- Ubuntu on WSL2 of Windows10
 
 # Languages
 - C  
