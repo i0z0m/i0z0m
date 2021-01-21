@@ -37,9 +37,3 @@ for org-mode
 ## OS
 - Arch Linux  
 - Ubuntu on WSL2 of Windows10
-
-# Languages
-- C  
-- C++  
-- Rust  
-- Python
