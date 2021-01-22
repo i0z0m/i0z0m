@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Environment
 
 ## Editor
-- [(Neo) Vim](https://gist.github.com/i0z0m/75286efe56181d98980e8f629d1bd381)  
+- [(Neo)vim](https://gist.github.com/i0z0m/51394559e7704d210fbb46c87d56077a)  
 for programming
 
 - Doom Emacs  
