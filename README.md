@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 -->
 
 - [documents](https://i0z0m.github.io/)
-- [booklog](https://booklog.jp/users/i0z0m)
-- [raindrop](https://raindrop.io/collection/6508539)
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=i0z0m&show_icons=true&count_private=true)  
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=i0z0m&layout=compact)
