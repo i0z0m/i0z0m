@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 -->
 
 - [documents](https://i0z0m.github.io/)
-
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=i0z0m&layout=compact)
