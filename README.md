@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- [blog](https://write.as/i0z0m/)
 - [documents](https://i0z0m.github.io/)
