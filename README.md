@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- [blog](https://i0z0m.hatenablog.com/ )
-- [documents](https://i0z0m.github.io/)
+Here is my empty portfolio.
