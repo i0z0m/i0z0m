@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 <p>Career：Nothing
 <p>Qualification: Nothing
-<p>Output in Japanese: <a href="https://zenn.dev/i0z0m">Zenn</a>
+<p>Output: Nothing
