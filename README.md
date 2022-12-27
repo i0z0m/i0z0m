@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>Career：Nothing
-<p>Qualification: Nothing
-<p>Output: Nothing
+- [zenn.dev](https://zenn.dev/i0z0m)
+- [resume.id](https://www.resume.id/i0z0m)
