@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+まだ何も見るべき物はありません。空っぽです。
 - [zenn.dev](https://zenn.dev/i0z0m)
 - [resume.id](https://www.resume.id/i0z0m)
+- [はてなブログ](https://i0z0m.hatenablog.com)
+- [Scrapbox](https://scrapbox.io/i0z0m/)
