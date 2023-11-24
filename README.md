@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 Nothing yet.
-- [zenn.dev](https://zenn.dev/i0z0m)
 - [resume.id](https://www.resume.id/i0z0m)
+- [zenn.dev](https://zenn.dev/i0z0m)
+- [sizu.me](https://sizu.me/i0z0m)
 - [Scrapbox](https://scrapbox.io/i0z0m/)
-- [はてなブログ](https://i0z0m.hatenablog.com)
