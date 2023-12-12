@@ -28,4 +28,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i0z0m&layout=compact&theme=blueberry
 )](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://wakatime.com/share/@i0z0m/1ef7e054-64bf-49fc-89ae-b8e47c303500.svg" alt="Coding Activity over Last 7 Days (Powered by wakatime.vom)" width="400">
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@i0z0m/53494291-5d20-4292-9685-fa6ba6bca94c.png" width="400"/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@i0z0m/772737a5-35a9-4095-a46b-c0353ffb9010.png" width="400"/></a>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@i0z0m/1628b27c-3c94-41aa-98f5-8ef565701911.png" width="400"/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@i0z0m/e2a6bb41-9b29-482c-874a-eb24d84cb68d.png" width="400"></a>
