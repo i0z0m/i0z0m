@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # outout
+<a href=""><img src="http://www.google.com/s2/favicons?domain=http://resume.id&size=32" width=32/></a>
 - [resume.id](https://www.resume.id/i0z0m)
 - [zenn.dev](https://zenn.dev/i0z0m)
 - [scrapbox](https://scrapbox.io/i0z0m/)
