@@ -30,6 +30,3 @@ Here are some ideas to get you started:
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@i0z0m/53494291-5d20-4292-9685-fa6ba6bca94c.png" width="400"/></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@i0z0m/772737a5-35a9-4095-a46b-c0353ffb9010.png" width="400"/></a>
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@i0z0m/1628b27c-3c94-41aa-98f5-8ef565701911.png" width="400"/></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@i0z0m/e2a6bb41-9b29-482c-874a-eb24d84cb68d.png" width="400"></a>
