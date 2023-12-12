@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 - [scrapbox](https://scrapbox.io/i0z0m/)
 
 # statics
-- [Pull Requests by i0z0m](https://github.com/pulls?q=involves%3Ai0z0m+-user%3Ai0z0m)
-- [i0z0m's 2023 GitHub Skyline](https://skyline.github.com/i0z0m/2023)
-
 ![GitHub Stats Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i0z0m&theme=blueberry)
 ![](https://github-readme-stats.vercel.app/api?username=i0z0m&count_private=true&theme=blueberry)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i0z0m&layout=compact&theme=blueberry
