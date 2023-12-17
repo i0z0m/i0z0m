@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# outout
-- [resume.id](https://www.resume.id/i0z0m)
-- [zenn.dev](https://zenn.dev/i0z0m)
-- [scrapbox](https://scrapbox.io/i0z0m/)
-
-# statics
 ![GitHub Stats Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i0z0m&theme=blueberry)
 ![](https://github-readme-stats.vercel.app/api?username=i0z0m&count_private=true&theme=blueberry)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i0z0m&layout=compact&theme=blueberry
