@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=i0z0m&count_private=true&theme=blueberry)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i0z0m&layout=compact&theme=blueberry
 )](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@i0z0m/53494291-5d20-4292-9685-fa6ba6bca94c.png" width="400"/></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@i0z0m/772737a5-35a9-4095-a46b-c0353ffb9010.png" width="400"/></a>
