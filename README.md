@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- [my profile in wakatime](https://wakatime.com/@i0z0m)
+
 ![GitHub Stats Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i0z0m&theme=blueberry)
 ![](https://github-readme-stats.vercel.app/api?username=i0z0m&count_private=true&theme=blueberry)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i0z0m&layout=compact&theme=blueberry
