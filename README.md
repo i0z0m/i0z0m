@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+"Transitioning from -1 to 0" — Utilizing technology to alleviate the struggles of individuals who are low in productivity and socially isolated, rendering them vulnerable. By refining and developing applications that enhance life hacks, communication, and mental health, I aim to establish myself as a backend web developer with a deep understanding of security.
+
 - [my profile in wakatime](https://wakatime.com/@i0z0m)
 
 ![GitHub Stats Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i0z0m&theme=blueberry)
